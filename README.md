@@ -20,7 +20,7 @@
 
 **OBSERVAÇÕES**
 
-<p>Esta é uma versão aprimorada da original (JAN/23).</p>
+- Esta é uma versão aprimorada da original (JAN/23)
 
 ![les-demoiselles-film](https://github.com/carolinaoftinoco/les-demoiselles-film/blob/main/les-demoiselles-film.gif)
 
