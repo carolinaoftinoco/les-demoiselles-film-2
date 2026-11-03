@@ -18,9 +18,6 @@
 
 - JavaScript
 
-**OBSERVAÇÕES**
-
-Esta é uma versão aprimorada da original (JAN/23).
 <br>
 
 ![les-demoiselles-film](https://github.com/carolinaoftinoco/les-demoiselles-film/blob/main/les-demoiselles-film.gif)
